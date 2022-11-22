@@ -4,9 +4,12 @@
 In this homework we were required to classify species of plants, which were divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label.
 
 ### Dataset Details
-Image size: 96x96 //
-Color space: RGB //
-File Format: JPG //
+Image size: 96x96
+
+Color space: RGB
+
+File Format: JPG
+
 Number of classes: 8
 
 Classes:
