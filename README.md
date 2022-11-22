@@ -37,7 +37,6 @@ Training images per class:
 The metric used to evaluate models and place the Teams in Leadeboard was the Total Accuracy.
 
 ### Team members
-Viola Renne
-Alessandro Rossi
-Lea Zancani
-
+* [Viola Renne](https://github.com/viols-code)
+* [Alessandro Rossi]()
+* [Lea Zancani]()
