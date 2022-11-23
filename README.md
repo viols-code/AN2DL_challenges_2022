@@ -1,4 +1,10 @@
 # Artificial Neural Networks and Deep Leaning Challenges 2022/2023
+
+### Team members
+* [Viola Renne](https://github.com/viols-code)
+* [Alessandro Rossi]()
+* [Lea Zancani]()
+
 ## First Homework
 ### Image Classification
 In this homework we were required to classify species of plants, which were divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label.
@@ -31,8 +37,3 @@ Training images per class:
 
 ### Evaluation
 The metric used to evaluate models and place the Teams in Leadeboard was the Total Accuracy.
-
-### Team members
-* [Viola Renne](https://github.com/viols-code)
-* [Alessandro Rossi]()
-* [Lea Zancani]()
