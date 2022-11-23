@@ -5,9 +5,6 @@
 * [Alessandro Rossi]()
 * [Lea Zancani]()
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-
 **Tutor:** Prof. Matteo Matteucci  
 
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=ffdd65&style=for-the-badge&logoWidth=)
@@ -47,3 +44,6 @@ Training images per class:
 
 ### Evaluation
 The metric used to evaluate models and place the Teams in Leadeboard was the Total Accuracy.
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
