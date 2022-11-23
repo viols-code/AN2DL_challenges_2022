@@ -11,7 +11,7 @@
 **Tutor:** Prof. Matteo Matteucci  
 **Area:** Convolutional Neural Networks
 
-![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=ffdd65&style=for-the-badge&logoWidth=)
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoWidth=)
 ![Keras](https://img.shields.io/badge/keras-3776AB?logo=keras&style=for-the-badge&logoWidth=)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-3776AB?logo=tensorflow&style=for-the-badge&logoWidth=)
 
