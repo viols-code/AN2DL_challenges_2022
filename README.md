@@ -11,6 +11,8 @@
 **Tutor:** Prof. Matteo Matteucci  
 **Area:** Convolutional Neural Networks
 
+![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=ffdd65&style=for-the-badge&logoWidth=)
+
 ## First Homework
 ### Image Classification
 In this homework we were required to classify species of plants, which were divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label.
