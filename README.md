@@ -45,5 +45,14 @@ Training images per class:
 ### Evaluation
 The metric used to evaluate models and place the Teams in Leadeboard was the Total Accuracy.
 
+### Results
+#### First phase - Development
+In the first phase we achieve the following results:
+- EfficientNetb4 - Accuracy: 0.9246  - Position: 21
+- EfficientNetb4 - Accuracy: 0.9151 - Position: 37
+- Xception - Accuracy: 0.8944 - Position: 81
+
+### Second phase - Final
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
