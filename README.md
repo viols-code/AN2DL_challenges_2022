@@ -47,7 +47,7 @@ The metric used to evaluate models and place the Teams in Leadeboard was the Tot
 
 ### Results
 #### First phase - Development
-In the first phase we achieve the following results:
+In the first phase, with a total of 530 partecipants, our group achieved the following results:
 - EfficientNetb4 - Accuracy: 0.9246  - Position: 21
 - EfficientNetb4 - Accuracy: 0.9151 - Position: 37
 - Xception - Accuracy: 0.8944 - Position: 81
