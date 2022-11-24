@@ -53,6 +53,8 @@ In the first phase, of two weeks, with a total of 530 partecipants, our group ac
 - EfficientNetb4 - Accuracy: 0.9151 - Position: 35 (tied with other 3 groups)
 - Xception - Accuracy: 0.8944 - Position: 79 (tied with other 3 groups)
 
+Our CNN handmade reached an accuracy of 0.83
+
 #### Second phase - Final
 
 ## Second Homework - coming soon
