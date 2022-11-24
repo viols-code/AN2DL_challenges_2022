@@ -52,7 +52,9 @@ In the first phase, with a total of 530 partecipants, our group achieved the fol
 - EfficientNetb4 - Accuracy: 0.9151 - Position: 37
 - Xception - Accuracy: 0.8944 - Position: 81
 
-### Second phase - Final
+#### Second phase - Final
+
+## Second Homework - coming soon
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
