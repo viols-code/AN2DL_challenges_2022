@@ -61,7 +61,7 @@ In the second phase (on a different hidden test set), of two days, with a total 
 - EfficientNetb4 - Accuracy: 0.9007 - Position: ?
 - Xception - Accuracy: 0.8926 - Position: ?
 
-Our handmade CNN reached an accuracy of ?
+Our handmade CNN reached an accuracy of 0.80
 
 ## Second Homework - coming soon
 
