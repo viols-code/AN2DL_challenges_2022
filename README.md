@@ -55,13 +55,19 @@ In the first phase, of two weeks, with a total of 530 partecipants, our group ac
 
 Our handmade CNN reached an accuracy of 0.83
 
+Counting only the groups, and not the position of each member, our group was the 14th best.
+
 #### Second phase - Final
-In the second phase (on a different hidden test set), of two days, with a total of ? partecipants, our group achieved the following results:
-- EfficientNetb4 - Accuracy: 0.9154  - Position: ?
-- EfficientNetb4 - Accuracy: 0.9007 - Position: ?
-- Xception - Accuracy: 0.8926 - Position: ?
+In the second phase (on a different hidden test set), of two days, with a total of 515 partecipants, our group achieved the following results:
+- EfficientNetb4 - Accuracy: 0.9154  - Position: 30
+- EfficientNetb4 - Accuracy: 0.9007 - Position: 60
+- Xception - Accuracy: 0.8926 - Position: 91
 
 Our handmade CNN reached an accuracy of 0.80
+
+Counting only the groups, and not the position of each member, our group was the 14th
+
+We are proud of our result
 
 ## Second Homework - coming soon
 
