@@ -65,7 +65,7 @@ In the second phase (on a different hidden test set), of two days, with a total 
 
 Our handmade CNN reached an accuracy of 0.80
 
-Counting only the groups, and not the position of each member, our group was the 14th
+Counting only the groups, and not the position of each member, our group was the 14th best.
 
 We are proud of our result
 
