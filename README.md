@@ -67,8 +67,6 @@ Our handmade CNN reached an accuracy of 0.80
 
 Counting only the groups, and not the position of each member, our group was the 14th best.
 
-We are proud of our result
-
 ## Second Homework - coming soon
 
 
