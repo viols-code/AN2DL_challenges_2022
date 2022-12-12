@@ -68,16 +68,16 @@ Our handmade CNN reached an accuracy of 0.80
 Counting only the groups, and not the position of each member, our group was the 14th best.
 
 ## Second Homework
-**Area:** Time Series Classification
+**Area:** Time Series Classification  
 **Time:** One week
 
 In this homework, we were asked to correctly classify samples in the multivariate time series format. In other words, since this is a classification problem, the objective is to correctly map the information contained in the features calculated over time to their labels.
 
 ### Dataset Details
-Time series shape: 2429x36x6
-File format: .npy
-Number of classes: 12
-Classes:
+Time series shape: 2429x36x6  
+File format: .npy  
+Number of classes: 12  
+Classes:  
 - 0: "Wish"
 - 1: "Another"
 - 2: "Comfortably"
