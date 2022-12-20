@@ -94,4 +94,17 @@ Classes:
 ### Evaluation
 The metric used to evaluate models and place the Teams in Leadeboard was the Total Accuracy.
 
+### Results
+#### First phase - Development
+In the first phase, of one week, with a total of 527 partecipants, our group achieved the following results:
+- ResNet - Accuracy: 0.7485  - Position: 18 (tied with other two groups)
+- Bidirectional - Accuracy: 0.7183 - Position: 141 (tied with other six groups)
+
+Counting only the groups, and not the position of each member, our group was the 11th best.
+
+#### Second phase - Final
+In the second phase (on a different hidden test set), of two days, with a total of 474 partecipants, our group achieved the following results:
+- ResNet - Accuracy: 0.7351  - Position: 76 (tied with other two groups)
+- Bidirectional - Accuracy: 0.7183 - Position: 164 (tied with other three groups)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
