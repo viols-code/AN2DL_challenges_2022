@@ -5,7 +5,8 @@
 * [Alessandro Rossi](https://github.com/AlexRouge)
 * [Lea Zancani](https://github.com/LeaZancani)
 
-**Tutor:** Prof. Matteo Matteucci  
+**Tutor:** Prof. Matteo Matteucci
+**Group's name:** viola_rossi_blu
 
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=ffdd65&style=for-the-badge&logoWidth=)
 ![Keras](https://img.shields.io/badge/keras-3776AB?logo=keras&style=for-the-badge&logoWidth=)
