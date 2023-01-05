@@ -2,8 +2,8 @@
 
 ### Team members
 * [Viola Renne](https://github.com/viols-code)
-* [Alessandro Rossi]()
-* [Lea Zancani]()
+* [Alessandro Rossi](https://github.com/AlexRouge)
+* [Lea Zancani](https://github.com/LeaZancani)
 
 **Tutor:** Prof. Matteo Matteucci  
 
@@ -67,7 +67,9 @@ Our handmade CNN reached an accuracy of 0.80
 
 Counting only the groups, and not the position of each member, our group was the 14th best.
 
-## Grade
+Results can be found at [this link](https://codalab.lisn.upsaclay.fr/competitions/8522#results)
+
+### Grade
 We obtained 5/5
 
 ## Second Homework
@@ -106,8 +108,10 @@ In the first phase, of one week, with a total of 527 partecipants, our group ach
 Counting only the groups, and not the position of each member, our group was the 11th best.
 
 #### Second phase - Final
-In the second phase (on a different hidden test set), of two days, with a total of 474 partecipants, our group achieved the following results:
-- ResNet - Accuracy: 0.7351  - Position: 76 (tied with other two groups)
-- Bidirectional - Accuracy: 0.7183 - Position: 164 (tied with other three groups)
+In the second phase (on a different hidden test set), of two days, with a total of 525 partecipants, our group achieved the following results:
+- ResNet - Accuracy: 0.7351  - Position: 82 (tied with other four groups)
+- Bidirectional - Accuracy: 0.7183 - Position: 176 (tied with other three groups)
+
+Results can be found at [this link](https://codalab.lisn.upsaclay.fr/competitions/9056#results)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
