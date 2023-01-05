@@ -67,6 +67,9 @@ Our handmade CNN reached an accuracy of 0.80
 
 Counting only the groups, and not the position of each member, our group was the 14th best.
 
+## Grade
+We obtained 5/5
+
 ## Second Homework
 **Area:** Time Series Classification  
 **Time:** One week
