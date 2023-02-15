@@ -7,6 +7,7 @@
 
 **Tutor:** Prof. Matteo Matteucci
 **Group's name:** viola_rossi_blu
+**Final grade:** 10/10
 
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=ffdd65&style=for-the-badge&logoWidth=)
 ![Keras](https://img.shields.io/badge/keras-3776AB?logo=keras&style=for-the-badge&logoWidth=)
@@ -69,9 +70,6 @@ Our handmade CNN reached an accuracy of 0.80
 Counting only the groups, and not the position of each member, our group was the 14th best.
 
 Results can be found at [this link](https://codalab.lisn.upsaclay.fr/competitions/8522#results)
-
-### Grade
-We obtained 5/5
 
 ## Second Homework
 **Area:** Time Series Classification  
