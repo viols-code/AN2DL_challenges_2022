@@ -6,7 +6,7 @@
 * [Lea Zancani](https://github.com/LeaZancani)
 
 **Tutor:** Prof. Matteo Matteucci
-**Group's name:** viola_rossi_blu
+**Group's name:** viola_rossi_blu   
 **Final grade:** 10/10
 
 ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=ffdd65&style=for-the-badge&logoWidth=)
