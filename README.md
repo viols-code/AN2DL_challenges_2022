@@ -5,7 +5,7 @@
 * [Alessandro Rossi](https://github.com/AlexRouge)
 * [Lea Zancani](https://github.com/LeaZancani)
 
-**Tutor:** Prof. Matteo Matteucci
+**Tutor:** Prof. Matteo Matteucci   
 **Group's name:** viola_rossi_blu   
 **Final grade:** 10/10
 
